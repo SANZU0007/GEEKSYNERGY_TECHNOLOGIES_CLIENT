@@ -1,0 +1,44 @@
+/* Register.css */
+
+h1 {
+    color: #007bff;
+    text-align: center;
+  }
+  
+  .Form {
+    margin-top: 20px;
+  }
+  
+  input[type="text"],
+  input[type="email"],
+  input[type="password"] {
+    padding: 10px;
+    font-size: 1rem;
+  }
+  
+  button {
+    font-size: 1.2rem;
+    background-color: #007
+  }  
+
+
+
+  .user-management-container {
+    padding: 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .user-management-title {
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+  
+  .user-management-grid {
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+  }
+  
